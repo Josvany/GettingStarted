@@ -6,6 +6,7 @@ export class Scoreboard {
 
   addResult(newResult: Result): void {
     this.results.push(newResult);
+    let allCapsName : string = _.
   }
 
   updateScoreboard(): void {
